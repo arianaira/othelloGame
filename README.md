@@ -5,12 +5,15 @@ Othello Game
 •	Compile and run on terminal.
 
 •	Game menu contains four actions:
-    •	New game : 
-    Inputs two players name and the size of the table you wish to play on.
-    •	Load game :
-    Loads the game you have previously saved.
-    •	Ranking :
-    Shows the ranking table with player’s scores.
-    •	Exit
 
-•	Colbrating this project with https://gitlab.com/mahsapeymancs.
+- New game : 
+    Inputs two players name and the size of the table you wish to play on.
+
+- Load game :
+    Loads the game you have previously saved.
+
+- Ranking :
+    Shows the ranking table with player’s scores.
+- Exit
+
+•	Collabrating this project with https://gitlab.com/mahsapeymancs.
